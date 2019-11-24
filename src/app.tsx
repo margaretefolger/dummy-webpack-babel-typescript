@@ -1,6 +1,6 @@
 import React from 'react'
 import { hot } from 'react-hot-loader/root'
-import styles from './app.module'
+import styles from './css/app.module'
 import './global'
 
 function App() {
